@@ -2,7 +2,7 @@
     "storeHouse": [
         {
             "sourceName": "Apollo0o",
-            "sourceUrl": "clan://localhost/TVAbc/Apollo.json"
+            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/Apollo.json"
         },
         {
             "sourceName": "Apollo8o",
