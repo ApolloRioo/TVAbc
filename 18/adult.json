@@ -1,5 +1,5 @@
 {
-  "spider": "./Jar/adult.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/18/jar/adult.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
