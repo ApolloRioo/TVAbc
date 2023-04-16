@@ -6,7 +6,7 @@
         },
         {
             "sourceName": "Apollo8o",
-            "sourceUrl": "clan://localhost/TVAbc/99.json"
+            "sourceUrl": "https://ghproxy.com/https://raw.githubusercontent.com/ApolloRioo/TVAbc/main/99.json"
         }
     ]
 }
