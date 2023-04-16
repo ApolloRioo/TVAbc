@@ -2,6 +2,6 @@
 或者解压后TVBoxhh文件包移到根目录，如果已经有TVBoxhh文件直接覆盖即可
 如果解压出错或失败，请手机上用ES文件管理器解压
 配置地址
-clan://localhost/tvboxhh/18/采集/18cj.json
+clan://localhost/TVAbc/18/采集/18cj.json
 
 
