@@ -1,0 +1,12 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "Apollo0o",
+            "sourceUrl": "clan://localhost/TVAbc/Apollo.json"
+        },
+        {
+            "sourceName": "Apollo8o",
+            "sourceUrl": "clan://localhost/TVAbc/99.json"
+        }
+    ]
+}

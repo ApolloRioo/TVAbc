@@ -1,0 +1,48 @@
+{
+    "urls": [
+        {
+            "url": "clan://localhost/TVAbc/18/adult.json",
+            "name": "蜂蜜adult"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/miao.txt",
+            "name": "妙公子"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/Jiekou18.json",
+            "name":"Jiekou18"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/ss.json",
+            "name":"宝盒18"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/ziyong.json",
+            "name": "小白自用"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/Yoursmile.json",
+            "name": "Yoursmile"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/MaoXB.json",
+            "name": "MaoXB"
+        },
+        {
+            "url": "clan://localhost/TVAbc/18/mayi/mayi.json",
+            "name": "蚂蚁"
+        },   
+        {
+            "url": "clan://localhost/TVAbc/18/ypfe/ypfe.json",
+            "name": "ypfe"
+        },  
+        {
+            "url": "clan://localhost/TVAbc/18/采集/18cj.json",
+            "name": "采集"
+        },                     
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieF.json",
+            "name": "夜世界F"
+        }
+    ]
+}
